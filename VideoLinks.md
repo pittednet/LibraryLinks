@@ -1,5 +1,5 @@
-The Surprising Truth About What Motivates Us | Dan Pink
- https://www.youtube.com/watch?v=KgGhSOAtAyQ 
+# Video Links for additional learning
 
-The puzzle of motivation | Dan Pink
- https://www.youtube.com/watch?v=rrkrvAUbU9Y
+The Surprising Truth About What Motivates Us | Dan Pink: https://www.youtube.com/watch?v=KgGhSOAtAyQ 
+
+The puzzle of motivation | Dan Pink: https://www.youtube.com/watch?v=rrkrvAUbU9Y
