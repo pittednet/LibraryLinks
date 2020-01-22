@@ -1,7 +1,10 @@
 # Useful links and information to do with technical exercises.
 
-DevOps loop unlabelled:
+DevOps loop exercise unlabelled:
 https://drive.google.com/open?id=1bnU4BD1hCXEfZjKn81vbOxsEL9Ycbid9
+
+DevOps loop labelled:
+https://photos.google.com/share/AF1QipO7QSdOKOmOTK2y9XgelMYeqkkcQBkUMP3FZ-NXdvVSLXCw3NjToxkEBv75fUq0vg?key=WDFZUDdQTXRPcWx2WVR6c2Zrb3hxcXNsU0tmemtR
 
 Link to Juice Shop Solutions: 
 https://docs.google.com/document/d/11vz9NSrOLJ7uhiWPUeS9O9P88m6p_LtA8s3rwrepaq4/edit?usp=sharing 
